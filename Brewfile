@@ -19,7 +19,7 @@ brew "qrencode"
 
 # Casks (Essentials)
 cask "raycast"
-cask "chrome"
+cask "google-chrome"
 cask "readdle-spark"
 cask "slack"
 cask "discord"
@@ -29,6 +29,9 @@ cask "spotify"
 cask "zoom"
 cask "hiddenbar"
 cask "moom"
+cask "logi-options+"
+cask "elgato-stream-deck"
+
 
 # Casks (Development)
 cask "iterm2"
